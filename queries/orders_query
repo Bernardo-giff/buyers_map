@@ -1,0 +1,6 @@
+Select 
+    Id, 
+    SellerRef__c, 
+    BuyerRef__c 
+FROM Order__c 
+WHERE Status__c = 'completed'

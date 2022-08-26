@@ -1,0 +1,9 @@
+SELECT 
+   Name, 
+   Segment__c, 
+   Id, 
+   IsBuyer__c, 
+   IsSeller__c, 
+   BillingLatitude, 
+   BillingLongitude 
+FROM Account

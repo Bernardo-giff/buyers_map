@@ -1,0 +1,5 @@
+Select 
+    Id, 
+    Category__c, 
+    Name 
+FROM Material__c

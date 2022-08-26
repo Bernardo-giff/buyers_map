@@ -1,0 +1,8 @@
+Select 
+    Margin__c, 
+    Material__c, 
+    Order__c, 
+    QuantitiyPurchase__c, 
+    TotalPricePurchase__c, 
+    TotalPriceSell__c 
+FROM Cart_Item__c
